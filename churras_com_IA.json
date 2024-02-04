@@ -1,0 +1,31 @@
+
+// Lista de Convidados //
+[
+    {
+      "nome": "João Silva",
+      "contato": "(11) 9999-9999",
+      "preferencias": ["Carne vermelha", "Frango", "Vegetariano"]
+    },
+    {
+      "nome": "Maria Oliveira",
+      "contato": "(12) 8888-8888",
+      "preferencias": ["Salada", "Frutas", "Sobremesa"]
+    }
+  ]
+
+
+  // Cardápio //
+  [
+    {
+      "nome": "Picanha",
+      "receita": "https://www.churrascaria.com.br/receita-de-picanha/",
+      "quantidade": 2 kg,
+      "acompanhamentos": ["Salada verde", "Farofa", "Vinagrete"]
+    },
+    {
+      "nome": "Frango Assado",
+      "receita": "https://www.receitasdecomida.com.br/frango-assado/",
+      "quantidade": 1 kg,
+      "acompanhamentos": ["Arroz branco", "Batata frita", "Maionese"]
+    }
+  ]
